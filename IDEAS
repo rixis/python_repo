@@ -22,4 +22,12 @@ and you could click on columns so sort and filter.
 Another project is an improved printer maintenance script for SKP.
 
 
+One of the first things I need to do is start writing python scripts every 
+day. This will help me start thinking in python instead of bash.
+
+I should also start using git every day instead of plain old stampit. The
+stampit script should be used on a live system to make a backup for something
+that is not already in version control.
+
+
 
