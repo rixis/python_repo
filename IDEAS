@@ -1,0 +1,25 @@
+One thing I want to do in python is read in a file and compare it to another
+file on a field by field basis.
+
+This will be useful for comparing lists of hosts.
+
+This program needs to read in the contents of two or more files, sort them
+by a specific column, and then loop through one and lookup in the other
+
+
+
+Another thing I want to write in python is a file system scanner that writes
+the details of the files and directories into a database like mariadb.
+
+Then write code to examine the contents to show which directories are growing,
+the age of files, the count of files with certain characteristics like
+filename, date, timestamp, etc.
+
+It would be really awesome to display this in an interactive web interface
+and you could click on columns so sort and filter.
+
+
+Another project is an improved printer maintenance script for SKP.
+
+
+
