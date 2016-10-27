@@ -4,7 +4,7 @@
 
 import sys
 
-for arg in range(0, int(len(sys.argv)))
+for arg in range(0, len(sys.argv))
     print (arg, sys.argv[arg])
 
 # end of script
